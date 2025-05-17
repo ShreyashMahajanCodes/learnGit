@@ -1,1 +1,1 @@
-My Git commit.
+My Git commit. git commit -m "2nd commit message"
